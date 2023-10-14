@@ -11,7 +11,7 @@ logging_on=false
 opencl=false
 silence=false
 gpus=0
-cpu=false
+cpu=0
 
 function display_help() {
     echo "Usage: $0 [OPTIONS]"
